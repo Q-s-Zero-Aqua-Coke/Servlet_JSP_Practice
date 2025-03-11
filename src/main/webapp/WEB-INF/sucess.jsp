@@ -4,9 +4,6 @@
     <title>Title</title>
 </head>
 <body>
-<a href="page01.jsp">page01</a>
-<a href="page02.jsp">page02</a>
-<a href="private">private</a>
-<a href="auth">auth</a>
+<p>로그인 성공 축하해!</p>
 </body>
 </html>
